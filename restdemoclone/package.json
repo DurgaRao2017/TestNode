@@ -1,0 +1,8 @@
+{
+    "name": "restdemoclone",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "desdu01",
+    "contributors": [],
+    "dependencies": {}
+}
